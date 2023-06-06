@@ -2,6 +2,8 @@
 <h3 align="center">A passionate about UI/UX and frontend development.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3917576/support.gif">
 
+- 💻 I’m currently **a Intern Software Engineer @ SPIL Labs Pvt Ltd**
+
 - 🔭 I’m currently learning on **Uva Wellassa University of Sri Lanka.**
 
 - 👯 I’m currently looking to collaborate on **other developers and work**
